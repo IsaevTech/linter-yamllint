@@ -1,0 +1,7 @@
+#!/bin/sh
+
+if [ $# -eq 0 ]; then
+yamllint -s .
+else
+yamllint -s "$@"
+fi
