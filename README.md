@@ -1,6 +1,7 @@
 # Yaml Linter
 
-[![Build Status](https://ci.isaev.tech/api/badges/IsaevTech/yamllint/status.svg)](https://ci.isaev.tech/IsaevTech/yamllint)
+[![Docker Image CI](https://github.com/IsaevTech/linter-yamllint/actions/workflows/docker-image.yml/badge.svg)](https://github.com/IsaevTech/linter-yamllint/actions/workflows/docker-image.yml)
+![Docker Pulls](https://img.shields.io/docker/pulls/ismv/linter-yamllint)
 
 ## Usage
 
